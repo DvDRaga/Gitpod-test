@@ -115,7 +115,13 @@ const Index = () => {
       lineNumber: 3
     },
     __self: undefined
-  }, "Hello World!!");
+  }, __jsx("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: undefined
+  }, "Hello World!!!"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);

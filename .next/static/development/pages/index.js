@@ -56,7 +56,13 @@ var Index = function Index() {
       lineNumber: 3
     },
     __self: this
-  }, "Hello World!!");
+  }, __jsx("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, "Hello World!!!"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
